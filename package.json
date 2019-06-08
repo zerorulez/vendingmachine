@@ -1,0 +1,22 @@
+{
+  "name": "vendingmachine",
+  "version": "1.0.0",
+  "description": "Teste de logica",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zerorulez/vendingmachine.git"
+  },
+  "author": "Lucas Ribeiro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zerorulez/vendingmachine/issues"
+  },
+  "homepage": "https://github.com/zerorulez/vendingmachine#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  }
+}
