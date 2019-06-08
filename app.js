@@ -50,7 +50,7 @@ function devolverTroco() {
         if (item.quantidade > 0) {
             
             //Usa o máximo de moedas que puder
-            for (let index = 0; index < item.quantidade; index++) {
+            for (let index = 0; index <= item.quantidade; index++) {
 
                 //É possivel utilizar a moeda?
                 if ((troco - item.valor) >= 0) {
